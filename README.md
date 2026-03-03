@@ -24,9 +24,11 @@
 
 ---
 
-### 📊 إحصائيات GitHub
+### 📊 إحصائيات ---
+
+### 👁️ إحصائيات الزيارة
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3la43la&show_icons=true&theme=tokyonight&count_private=true" alt="Alaa's GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=3la43la&color=27ae60&style=for-the-badge&label=PROFILE+VIEWS" alt="Alaa.ksa Profile Views" />
 </p>
 
 ---
