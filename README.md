@@ -33,7 +33,7 @@
 
 ### 📫 تواصل معي
 * **Twitter/X**: [@YourHandle]
-* **Email**: prayer-times@3laa.ksa
+* **Email**: ala4ever@gmail.com
 
 <p align="right">
   <i>"Code is poetry." - Alaa.ksa</i>
